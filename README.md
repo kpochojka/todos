@@ -1,10 +1,10 @@
 # Project 8 for Frontend Path by Openclassrooms.com
-# Task discription:
+Task description:
 1. Add new unit test with Jasmine Framework
 2. Write technical documentation
 
-# You can find tested app here: 
+You can find tested app here: 
 https://kpochojka.github.io/todoapp/
 
-# You can find documentation here:
+You can find documentation here:
 
