@@ -7,6 +7,7 @@ You can find tested app here:
 https://kpochojka.github.io/todoapp/
 
 You can find documentation here:
+https://kpochojka.github.io/doc-todos/
 
 To run the unit jasmine test follow steps below:
 1. Download whole respository.
